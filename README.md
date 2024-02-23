@@ -1,7 +1,7 @@
 
 ### Python faker
 
-Bu proje python faker ile sahte kullanıcı ve verilerinini tutan bir JSON dosyası oluşturur
+Bu proje python faker ile 50000 sahte kullanıcı ve onların verilerinini tutan bir JSON dosyası oluşturur
 
 Skills: Python
 
